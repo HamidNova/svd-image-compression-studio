@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/Zero-Day-Hero/svd-image-compression-studio?style=social)](https://github.com/HamidNova/svd-image-compression-studio)
+[![GitHub stars](https://img.shields.io/github/stars/HamidNova/svd-image-compression-studio?style=social)](https://github.com/HamidNova/svd-image-compression-studio)
 
 An interactive image compression application built with **Python** and **Streamlit** using **Singular Value Decomposition (SVD)**.
 
